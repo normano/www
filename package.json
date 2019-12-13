@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "natives": "^1.1.6",
-    "npm": "^6.0.1"
+    "npm": "^6.13.4"
   },
   "resolutions": {
     "natives": "1.1.3"
